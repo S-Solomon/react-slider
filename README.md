@@ -1,3 +1,3 @@
 # react slider
 
-[!screenshot](screenshot.png)
+[screenshot.png](!screenshot)

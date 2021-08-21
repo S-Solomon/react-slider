@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 
 
-const dataSlider = [
+const SliderData = [
     {
         id: uuidv4(),
         title: "Lorem ipsum",
@@ -29,4 +29,4 @@ const dataSlider = [
     },
 ];
 
-export default dataSlider;
+export default SliderData;
